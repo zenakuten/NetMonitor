@@ -30,4 +30,4 @@ Template options
 
 ### Example output
 
-![imge](Jupyter\Example.png)
+![image](Jupyter/Example.png)
