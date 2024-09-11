@@ -2,7 +2,7 @@
 
 Is your UT2004 hosting provider arguing their network is the greatest network on the planet?  Are they asking you to run mtr to guage packet loss, even though icmp is throttled? 
 
-Mutator for UT2004 servers to capture player ping and packetloss variations directly from the application, bypassing icmp entirely. This outputs .csv files which can be used in e.g. Jupyter to inspect any issues.  
+NetMonitor is a mutator for UT2004 servers to capture player ping and packetloss variations directly from the application, bypassing icmp entirely. This outputs .csv files which can be used in e.g. Jupyter to inspect any issues.  
 
 
 ### Options
